@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moonno317
-- 👀 I’m interested in make Linux Distro but I have no ideas
-- I currently Learn C and Java or Kotlin or Somethin else
+- 👀 I’m interested in make Linux Distro but I have no idea how to
+- I'm fall in love with C and maybe I will learn java and kotlin once I master C
 - Hope someone can teach and help me learn
