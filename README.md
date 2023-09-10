@@ -30,3 +30,6 @@ Contributing
 I believe in the power of collaboration and welcome contributions from the developer community. If you find a bug, have a feature request, or would like to make any improvements to my existing projects, please feel free to submit a pull request. I will review the changes and merge them if they align with the project's goals.
 
 If you have any suggestions or ideas for new projects, code snippets, or resources, please open an issue and let's discuss it further. I am always excited to collaborate and work on new ideas together.
+
+OH. I also doing C project for free, if you have a project that you want to do and you need someone that can help you then that's not me, I'm on my way to learn C language
+but. You can ask me to do some project, I want to improve my skill
