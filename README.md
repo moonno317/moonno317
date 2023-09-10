@@ -2,7 +2,7 @@ Project Title: Moonno317's GitHub Repository
 Welcome to Moonno317's GitHub repository! This repository is a collection of projects, code snippets, and various resources that I have developed and curated over time. Feel free to explore and utilize the content available here.
 
 Table of Contents
-About the Author
+About the Author.
 Projects
 Code Snippets
 Resources
