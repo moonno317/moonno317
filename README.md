@@ -1,35 +1,31 @@
-Project Title: Moonno317's GitHub Repository
-Welcome to Moonno317's GitHub repository! This repository is a collection of projects, code snippets, and various resources that I have developed and curated over time. Feel free to explore and utilize the content available here.
+<h1 align="center">Hi 👋, I'm moonno317</h1>
+<h3 align="center">I'm a programmer just learn C a few months ago</h3>
 
-Table of Contents
-About the Author.
-Projects
-Code Snippets
-Resources
-Contributing
-License
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonno317&label=Profile%20views&color=0e75b6&style=flat" alt="moonno317" /> </p>
 
-About me
-Hello, I'm Moonno317! I have a passion for coding and enjoy exploring various programming languages and technologies. This GitHub repository serves as a showcase of my work, allowing me to share my knowledge and projects with the developer community.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonno317" alt="moonno317" /></a> </p>
 
-Projects
-In this repository, you will find a diverse range of projects I have worked on. Each project has its own dedicated directory, containing detailed documentation and instructions on how to set up and run the project. Here are some of the highlighted projects you can find:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Project A: A simple pacman game in C, like. The pacman is just a letter "C", and the ghost is "A". And the wall is "#".
-Project B: I learn about stock market, so I think I will make a program to calculate stock to invest ;)
-Project C: A calculator that show you how to solve the math problem
-Feel free to explore these projects and provide any feedback or suggestions. I'm always open to improving and expanding upon my existing work.
+- 🔭 I’m currently working on [Chat_Application](https://github.com/moonno317/Simple-Update_Chat_Application)
 
-Code Snippets
-Sometimes, during my coding journey, I come across interesting problems or implement useful algorithms. In this repository, you will find a collection of code snippets that can be utilized as building blocks for your own projects. These snippets cover a wide range of programming languages and concepts, making it easier for you to find solutions to common coding challenges.
+- 🌱 I’m currently learning **C and lisp**
 
-Resources
-Apart from my own projects and code snippets, I have also compiled a list of resources that I find valuable, including tutorials, articles, and helpful tools. These resources can aid you in your coding journey and provide additional insights into various topics. Feel free to explore and utilize these resources to enhance your programming skills.
+- 👨‍💻 All of my projects are available at [https://github.com/moonno317](https://github.com/moonno317)
 
-Contributing
-I believe in the power of collaboration and welcome contributions from the developer community. If you find a bug, have a feature request, or would like to make any improvements to my existing projects, please feel free to submit a pull request. I will review the changes and merge them if they align with the project's goals.
+- 📫 How to reach me **sennathongthao5@gmail.com**
 
-If you have any suggestions or ideas for new projects, code snippets, or resources, please open an issue and let's discuss it further. I am always excited to collaborate and work on new ideas together.
+- ⚡ Fun fact **I think i'm cute**
 
-OH. I also doing C project for free, if you have a project that you want to do and you need someone that can help you then that's not me, I'm on my way to learn C language
-but. You can ask me to do some project, I want to improve my skill
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonno317&show_icons=true&locale=en&layout=compact" alt="moonno317" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonno317&show_icons=true&locale=en" alt="moonno317" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonno317&" alt="moonno317" /></p>
