@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Chat_Application](https://github.com/moonno317/Simple-Update_Chat_Application)
+- 🔭 I’m currently working on [LainOS rewrite](https://github.com/moonno317/LainOS-2024)
 
 - 🌱 I’m currently learning **C and lisp**
 
